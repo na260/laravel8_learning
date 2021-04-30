@@ -1,0 +1,7 @@
+.env
+vendor
+cache
+*/storage/app
+*/storage/debugbar
+*/storage/framework
+*/storage/logs
